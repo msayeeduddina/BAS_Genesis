@@ -1,0 +1,13 @@
+.idea/
+.openzeppelin/
+build/
+artifacts/
+cache/
+node_modules/
+.DS_Store
+coverage
+coverage.json
+keystore/
+devnet.json
+testnet.json
+password.txt

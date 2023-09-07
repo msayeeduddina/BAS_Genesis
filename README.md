@@ -1,1 +1,2 @@
-# BAS_Genesis
+BAS Genesis Config
+==================
